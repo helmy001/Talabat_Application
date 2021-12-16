@@ -1,10 +1,14 @@
 # Talabat_Application
-# It is an online food ordering application using Java
-# Databa to retrieve the saved data
+
+--It is an online food ordering application using Java , Using Databa to retrieve the saved data
 
 
-///////////////////////////////////////////////////////////////////////////////////////////////////
+**********************************************************************************************
+
 Restaurant Owner functionalities:
+
+    ---> Register/ Login to the system.
+    
     ---> Add a meal to his restaurant. A meal consists of:
     o Meal Name
     o Meal price
@@ -18,9 +22,11 @@ Restaurant Owner functionalities:
     o The quantity required.
     o Additional notes.
     o Order Date
-/////////////////////////////////////////////////////////////////////////////////////////////////
+
+**********************************************************************************************
 
 Customer functionalities:
+
     ---> Register/ Login to the system.
     
     ---> Browse all of the available restaurants.
@@ -30,5 +36,5 @@ Customer functionalities:
     ---> Make an order.
         o The order shows the total price (price of meal*quantity)
 
-❖ Ability to sort and search meals and restaurants
-❖ The customer can put meals in a cart and order them
+    ❖ Ability to sort and search meals and restaurants  
+    ❖ The customer can put meals in a cart and order them
